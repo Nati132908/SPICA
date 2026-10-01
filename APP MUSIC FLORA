@@ -1,13 +1,11 @@
 mi-app-masonica/
-  index.html      ← la app completa
-  manifest.json   ← para instalarla como app
-  sw.js           ← service worker (modo offline)
+  index.html
   /musica
-    marcha-apertura.mp3
-    fondo-cadena.mp3
-    ...
-  /iconos
-    icono.png
+    apertura.mp3
+    marchas.mp3
+    trabajos.mp3
+    clausura.mp3
+    agape.mp3
 <!DOCTYPE html>
 <html lang="es">
 <head>
